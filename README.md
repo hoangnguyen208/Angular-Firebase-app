@@ -1,6 +1,8 @@
-# Proplistings
+# Content
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
+
+The app allows users to log in their Firebase accounts through google pop-up login window, then add their properties including pictures that are uploaded to their own Firebase database. Moreover, users can edit their own properties as well as delete them from Firebase database through this app. 
 
 ## Development server
 
